@@ -13,7 +13,7 @@ pwd = print working directory = affiche le répertoire du travail
 cd = change directory = permet de revenir au répertoire utilisateur
 cd .. = permet de remonter dans le répertoire parent (père)
 cd / = permet de remonter à la racinede l'ensemble de fichiers
-cd - = permet de revenir répertoire précédent
+cd - = permet de revenir au répertoire précédent
 git mv [fichier - nom] [fichier-nouveau-nom] = permet de renommer des fichiers 
 cp = copy = permet de copier des fichiers ou des répertoires
 git rm = remove= très dangereuse = permet d'effacer des fichiers ( à utiliser seulement quand on sait ce qu'on fait!) 
@@ -29,7 +29,7 @@ pour ajouter sur GitHub, une fois le repository créé on utilise:
     git remote add origin suivi de l'URL du repository
     git git push -u origin master
 git checkout [nom-de-branche]= pour entrer dans une branche et travailler 
-git clone suivi de l'URL du gitHub = pour cloner un fork  
+git clone suivi de l'URL du gitHub = pour cloner   
 
 
 
