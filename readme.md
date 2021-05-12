@@ -6,7 +6,7 @@ mkdir = make directory = pour créer un nouveau dossier vide
 rmdir = remove directory = supprime un répertoire vide 
 git init = pour initialiser le suivi du dossier dans lequel on est
 git status = pour voir le status, voir si des fichiers ont été ajoutés
-git add = pour ajouter des fichiers
+git add = pour ajouter des fichiers dans lesquels ont a fait des modifications
 git commit -m = pour soumettre des modifications à l'historique du dépôt avec un commentaire
 git diff = pour afficher les differences entre le fichier actuel et la dernière version 
 pwd = print working directory = affiche le répertoire du travail 
@@ -21,7 +21,7 @@ ls = liste les fichiers
 git log = montre l'historique de la branche courante (les commits)
 git push = pour envoyer les commits de notre PC vers GitHub
 git pull = pour récupérer (tirer) les modifications d'une branche distante
-git add . = pour ajouter des modifications
+git add . = pour ajouter tout le répertoire
 code . = ouvre le VSCode
 git rm -Rf = pour forcer
 ls - al = pour afficher les fichiers cachés
